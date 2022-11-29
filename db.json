@@ -1,5 +1,61 @@
 {
     "users": [],
     "admin": [],
-    "book": []
+    "book": [
+        {
+            "image": "https://rukminim1.flixcart.com/image/612/612/khxqt8w0-0/book/x/o/v/attitude-is-everything-change-your-attitude-change-your-life-original-imafxtvesfbk8rje.jpeg?q=70",
+            "name": "Attitude",
+            "author": "david",
+            "genre": "Tech",
+            "edition": 2021,
+            "publisher": "xyz",
+            "cost": 199,
+            "borrowed": false,
+            "id": 1
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/612/612/khxqt8w0-0/book/x/o/v/attitude-is-everything-change-your-attitude-change-your-life-original-imafxtvesfbk8rje.jpeg?q=70",
+            "name": "Mind",
+            "author": "yogi",
+            "genre": "Science",
+            "edition": 2022,
+            "publisher": "abc",
+            "cost": 500,
+            "borrowed": false,
+            "id": 2
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/612/612/khxqt8w0-0/book/x/o/v/attitude-is-everything-change-your-attitude-change-your-life-original-imafxtvesfbk8rje.jpeg?q=70",
+            "name": "Rana",
+            "author": "singht",
+            "genre": "Business",
+            "edition": 2022,
+            "publisher": "dss",
+            "cost": 125,
+            "borrowed": false,
+            "id": 3
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/612/612/kzsqykw0/book/u/z/t/believe-in-yourself-original-imagbq2mzpnvfd6t.jpeg?q=70",
+            "name": "Beleive yourself",
+            "author": "ramu",
+            "genre": "Fiction",
+            "edition": 2021,
+            "publisher": "Khan",
+            "cost": 425,
+            "borrowed": false,
+            "id": 5
+        },
+        {
+            "image": "https://rukminim1.flixcart.com/image/612/612/k2krekw0/book/2/5/3/chanakya-neeti-with-chanakya-sutra-sahit-in-hindi-original-imafhw27xka3c7vy.jpeg?q=70",
+            "name": "chanakya",
+            "author": "chanakya",
+            "genre": "Business",
+            "edition": 2021,
+            "publisher": "chanakya",
+            "cost": 265,
+            "borrowed": false,
+            "id": 6
+        }
+    ]
 }
